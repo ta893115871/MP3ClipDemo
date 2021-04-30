@@ -11,7 +11,7 @@ import java.nio.ByteBuffer
 
 
 /**
- * Created by guxiuzhong@baidu.com on 2021/3/7.
+ * Created by guxiuzhong on 2021/3/7.
  */
 object Clip {
     const val TAG = "Clip"
